@@ -196,13 +196,13 @@
     },
     {
       "path": "docs/DEMO_GUIDE.md",
-      "bytes": 6966,
-      "sha256": "0236431370667564762a24875f3074cb3e5c11e7053e9e2f8a44c725d370d893"
+      "bytes": 6884,
+      "sha256": "d19b80bb7e8c45535e57de82f5717d7170b7454bf80bc2b06a745800e8facde5"
     },
     {
       "path": "docs/PROJECT_OVERVIEW.md",
-      "bytes": 1732,
-      "sha256": "38c7426d4af9158acaec2a4d222c9f706a60070d286bfc4f4790d6cb1f83f59b"
+      "bytes": 1714,
+      "sha256": "382269e8785fa891c0b467d580adadb839f0823c3cd58b7a81360816273b7532"
     },
     {
       "path": "docs/PUBLISH_CHECKLIST.md",
@@ -266,8 +266,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4756,
-      "sha256": "fe8e937b1472c786d1189b0d73e83c512a18abc346eac76717655bb4a3293e4e"
+      "bytes": 4755,
+      "sha256": "83e9b484780ca2f52431b92d6f188ce2fb58bcb77be47f4c73803581d23ee756"
     },
     {
       "path": "requirements-dev.txt",

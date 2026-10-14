@@ -51,7 +51,7 @@ Python版本应为3.12。安装了多个版本且有Windows启动器时，可用
 ## 文档
 
 - [用户操作手册](docs/USER_GUIDE.md)：按实际按钮和菜单说明全部现有用户操作，含常见问题排查。
-- [合成演示操作指南（含5分钟讲解提纲）](docs/DEMO_GUIDE.md)：样例生成、阶段切换和自动回放，不含演示视频。
+- [合成演示操作指南（含操作流程速览）](docs/DEMO_GUIDE.md)：样例生成、阶段切换和自动回放，不含演示视频。
 - [技术参考](docs/TECHNICAL_REFERENCE.md)：对象适用范围、规则与容差、问题键、存储和CSV字段、Python接口。
 - [项目定位](docs/PROJECT_OVERVIEW.md) · [版本说明](docs/RELEASE_NOTES.md) · [验证记录](docs/VALIDATION.md)。
 - [维护者发布核对清单](docs/PUBLISH_CHECKLIST.md)。
