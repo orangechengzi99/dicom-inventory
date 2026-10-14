@@ -1,0 +1,41 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.pytest-tmp/
+.coverage
+htmlcov/
+output/
+.idea/
+.vscode/
+
+# Raw DICOM and local report artifacts must not become public portfolio data.
+*.dcm
+*.dicom
+dicom_inventory_*.csv
+issues*.csv
+series*.csv
+
+# Local scan snapshots and SQLite transaction files may contain private paths/UIDs.
+*.sqlite3
+*.sqlite3-journal
+*.sqlite3-wal
+*.sqlite3-shm
+
+# Generated demos, comparisons, private engineering history and delivery output.
+/.demo/
+/dist/
+/build/
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+comparison*.csv
+*.csv
+partial_*.csv
+*.csv.scan.json
+/AGENTS.md
+/task_plan.md
+/progress.md
+/findings.md
+/docs/screenshots/capture.json
